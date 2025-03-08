@@ -11,4 +11,4 @@ streamlit run .\dashboard\dashboard.py
 ```
 
 ### Dashboard Streamlit App
-https://submission-dicoding-proyek.streamlit.app/
+https://dashboard-ecommerce-dicoding.streamlit.app/
