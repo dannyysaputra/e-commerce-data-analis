@@ -7,7 +7,7 @@ pip install -r requirement.txt
 
 ### Run Streamlit App
 ```
-streamlit run .\dashboard\temp_dashboard.py
+streamlit run .\dashboard\dashboard.py
 ```
 
 ### Dashboard Streamlit App
